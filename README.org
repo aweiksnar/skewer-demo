@@ -4,14 +4,14 @@ evaluate the start server code in start.el
 
 navigate to localhost:8080 (or default httpd port)
 
-`M-x skewer-mode` from working directory (toggles enabled/disabled)
+=M-x skewer-mode= from working directory (toggles enabled/disabled)
 
-"C-u C-x e" print output to buffer at cursor
+=C-u C-x e= print output to buffer at cursor
 
-"C-c C-k" to eval current file
+=C-c C-k= to eval current file
 
-"C-c C-e" to eval a single expression
+=C-c C-e= to eval a single expression
 
-`M-x skewer-repl` for a browser connected repl
+=M-x skewer-repl= for a browser connected repl
 
-skewer.log(...) to send code to skewer repl
+=skewer.log(...)= to send code to skewer repl
